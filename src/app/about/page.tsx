@@ -7,7 +7,7 @@ const AboutPage: React.FC = () => {
         <div className="min-h-screen py-10 px-4 bg-gray-100 flex flex-col items-center">
             <h1 className="text-4xl font-bold mb-6">About Us</h1>
             <p className="text-lg text-gray-700 mb-8 text-center">
-                Welcome to Blog Brew! We bring you the latest in tech, wellness, travel, recipes, creativity, and finance. Our mission is to inspire and inform, helping you live your best life.
+                Welcome to Your Blog! Here, I share insights and updates across various topics. My mission is to inspire and inform, helping you live your best life.
                 <br /><br />
                 Join our community, explore diverse topics, and be part of a journey towards knowledge and inspiration.
             </p>
